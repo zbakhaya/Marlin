@@ -123,7 +123,7 @@ tags
 .gcc-flags.json
 /lib/
 # Don't ignore this
-!.pio/build*
+!.pio/build/*
 
 # Workaround for Deviot+platformio quirks
 Marlin/lib
