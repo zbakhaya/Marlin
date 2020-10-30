@@ -54,7 +54,7 @@
  * has a distinct Github fork— the Source Code URL should just be the main
  * Marlin repository.
  */
-//#define SOURCE_CODE_URL "https://github.com/MarlinFirmware/Marlin"
+#define SOURCE_CODE_URL "https://github.com/zbakhaya/Marlin/tree/Ender3Pro%2BSKR1.3%2BTMC2209%2BBLTouch"
 
 /**
  * Default generic printer UUID.
